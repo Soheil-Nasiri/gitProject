@@ -1,12 +1,6 @@
 # This is a Header 1
 
-My name is *Sohale Nasiri*. I repeat: _Sohale Nasiri_
 
-I will **Bold** it if you want. Like __THIS__.
-
-Or maybe you want ***Bold Italic*** at the same time.
-
-No I will ~~NOT~~ accept it.
 
 This is code though:
 
